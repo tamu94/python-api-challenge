@@ -11,6 +11,9 @@ pandas = "*"
 matplotlib = "*"
 numpy = "*"
 requests = "*"
+json = "*"
+citypy = "*"
+citipy = "*"
 
 [requires]
 python_version = "3.7"
